@@ -1,3 +1,4 @@
+/* Welcome to my css file! */
 body, h1, h2, h3, p, ul, li {
   margin: 0;
   padding: 0;
@@ -69,3 +70,19 @@ hr {
 .image-container img {
   max-width: 100%; 
   height: auto; 
+
+
+  a:link {
+  color: #007bff; 
+  text-decoration: none; 
+}
+
+
+a:visited {
+  color: #551a8b; 
+}
+
+
+a:hover {
+  text-decoration: underline;
+}
